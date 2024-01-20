@@ -19,7 +19,5 @@ class Solution:
                     return solucion
 
 
-
-
 resultado = Solution()
 print(resultado.twoSum(nums, target))
